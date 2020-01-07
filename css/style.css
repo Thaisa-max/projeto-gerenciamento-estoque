@@ -1,0 +1,397 @@
+﻿body {
+    width: 1343px;
+    height: 450px;
+}
+
+.logo-body {
+    float: left;
+    margin-left: 29%;
+    margin-top: 2%;
+    width: 850px;
+    height: 100%;
+    background-image: url('../img/logo-estoque-body.png');
+    background-repeat: no-repeat;
+}
+
+.logo-page {
+    float: left;
+    margin-top: -2%;
+    margin-left: 28%;
+    width: 640px;
+    height: 100%;
+    background-image: url('../img/logo-estoque.jfif');
+    background-repeat: no-repeat;
+}
+
+.logo-width {
+    float: left;
+    margin: 0%;
+    width: 113.3%;
+    height: 40%;
+    background-color: #000000;
+}
+
+.menu-nav {
+    float: left;
+    margin: 0%;
+    margin-top: 0%;
+    padding: 0.5%;
+    width: 100%;
+    height: 0 auto;
+    background-color: #DCDCDC;
+}
+
+.sobre {
+    margin: 0%;
+    margin-top: 30%;
+    margin-left: 4%;
+    padding: 1%;
+    width: 90%;
+    height: 0 auto;
+    background-color: #B0C4DE; 
+}
+
+.formulario-cadastro {
+    float: left;
+    padding: 1%;
+    margin-left: 3%;
+    margin-bottom: 0%;
+    margin-top: 3%;
+    width: 70%;
+    height: 0 auto;
+    background-color: #B0C4DE;
+}
+
+.formulario-cadastrar-locais-estoque {
+    float: left;
+    padding: 1%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    width: 80%;
+    height: 150%;
+    background-color: #B0C4DE;
+}
+
+.formulario-cadastro-funcionario {
+    float: left;
+    padding: 1%;
+    margin-left: 5.6%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    width: 100%;
+    height: 140%;
+    background-color: #B0C4DE;
+}
+
+.formulario-cadastrar-categoria-produtos{
+    float: left;
+    padding: 1%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    width: 80%;
+    height: 120%;
+    background-color: #B0C4DE;
+}
+
+.formulario-cadastrar-marcas{
+    float: left;
+    padding: 1%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    width: 80%;
+    height: 120%;
+    background-color: #B0C4DE;
+}
+
+.formulario-cadastrar-fornecedor{
+    float: left;
+    padding: 1%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    width: 80%;
+    height: 190%;
+    background-color: #B0C4DE;
+}
+
+.lista-resultado {
+    float: left;
+    padding: 1%;
+    margin-left: 20%;
+    margin-bottom: 4%;
+    margin-top: 10%;
+    width: 80%;
+    height: 0 auto;
+    background-color: #B0C4DE;
+}
+
+.cadastrar-empresa{
+    margin-left: -25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 774px;
+    height: 74px;
+    background-image: url('../img/cadastrarEmpresa.png');
+    background-repeat: no-repeat;
+}
+
+.cadastrar-funcionario{
+    margin-left: -25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 774px;
+    height: 65px;
+    background-image: url('../img/cadastrar-funcionario-text.png');
+    background-repeat: no-repeat;
+}
+
+.cadastrar-locais-estoques{
+    margin-left: -30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 850px;
+    height: 74px;
+    background-image: url('../img/cadastrar-locais-estoques.png');
+    background-repeat: no-repeat;
+}
+
+.cadastrar-categoria-produto{
+    margin-left: -30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 850px;
+    height: 74px;
+    background-image: url('../img/cadastrar-categoria-produtos-text.png');
+    background-repeat: no-repeat;
+}
+
+.cadastrar-marca{
+    margin-left: -30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 850px;
+    height: 65px;
+    background-image: url('../img/cadastrar-marca-text.png');
+    background-repeat: no-repeat;
+}
+
+.cadastrar-fornecedores{
+    margin-left: -30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 850px;
+    height: 65px;
+    background-image: url('../img/cadastrar-fornecedores-text.png');
+    background-repeat: no-repeat;
+}
+
+
+
+.cadastrar-produto{
+    margin-left: -30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 850px;
+    height: 65px;
+    background-image: url('../img/cadastrar-produto-text.png');
+    background-repeat: no-repeat;
+}
+
+.resultado{
+    margin-left: -25px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 774px;
+    height: 74px;
+    background-image: url('../img/resultado.png');
+    background-repeat: no-repeat;
+}
+
+.space-btn {
+    float: right;
+    margin-right:4%;
+    margin-top: -3%;
+}
+
+.space-btn-resultado{
+    float: right;
+    margin:0%;
+    margin-top: 4%;
+}
+
+.space-btn-fonecedor{
+    float: right;
+    margin:0%;
+    margin-top: -3.5%;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+
+  /* == Configuração do Menu Nav ======================================================================== */
+
+  
+.menu-nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 2%;
+    display:inline-block;
+  }
+  
+ul {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    margin-left: -0.2%;
+}
+
+ul li {
+    display: inline-block;
+    margin-top: 1%;
+    margin-right: 10%;
+}
+
+ul li:hover ul {
+    display: block;
+}
+  
+ul li ul {
+    position: absolute;
+    width: 35%;
+    display: none;
+}
+  
+ul li ul li { 
+    background: #DCDCDC; 
+    display: block; 
+    padding: 1%;
+}
+  
+ul li ul li a {
+    display:block !important;
+} 
+
+ul li ul li:hover {
+    background: #40E0D0;
+}
+
+/* ================================================================================================= */
+
+.logo-body-cadastrar-empresa {
+    float: right;
+    margin-right: -10%;
+    margin-top: -23%;
+    width: 500px;
+    height: 300px;
+    background-image: url('../img/cadastrar-empresa.png');
+    background-repeat: no-repeat;
+}
+
+.logo-body-locais-estoque {
+    float: right;
+    margin-right: -11%;
+    margin-top: -34.3%;
+    width: 400px;
+    height: 400px;
+    background-image: url('../img/cadastrar-locais-estoque.png');
+    background-repeat: no-repeat;
+}
+
+.logo-cadastrar-funcionario {
+    float: right;
+    margin-right: 8%;
+    margin-top: -30%;
+    width: 230px;
+    height: 230px;
+    background-image: url('../img/cadastrar-funcionario.png');
+    background-repeat: no-repeat;
+}
+
+/*  ======================================================================================== */
+
+
+/* Criar uma estância dos valores, para ser usado nas (Div's) do HTML*/
+[class*='col-'] {
+    width: 100%;
+    min-height: 1px;
+    float: left;
+}
+
+/* Criando os valores das colunas: (Ex: 100*1/12 = 8.33333% ) */
+.col-g1{ width: 8.33333% }
+.col-g2{ width: 16.66667%; }
+.col-g3{ width: 25%; }
+.col-g4{ width: 33.3333%; }
+.col-g5{ width: 41.66667%; } 
+.col-g6{ width: 50%; }
+.col-g7{ width: 58.33333%; }
+.col-g8{ width: 66.66667%; }
+.col-g9{ width: 75%; }
+.col-g10{ width: 83.33333%; }
+.col-g11{ width: 91.66667%; }
+.col-g12{ width: 100%; }
+
+
+.test {
+    float: right;
+    margin-right: -55%;
+    margin-top: -75.5%;
+    width: 50%;
+    height: 200px;
+}
+
+.form-three {
+    float: right;
+    margin-right: -140%;
+    margin-top: -75.5%;
+    width: 80%;
+    height: 0 auto;
+
+}
+
+.btns {
+    float: left;
+    margin-left: 7%;
+    margin-top: -6%;
+}
+
+.btns-categoria{
+    float: left;
+    margin-left: -0.5%;
+    margin-top: 4%;
+}
+
+label {
+    float: left;
+}
+
+textarea{
+    float: left;
+       /* Para alinhar corretamente os campos de texto de várias linhas com sua label*/
+       vertical-align: top;
+
+       /* Para dar espaço suficiente para digitar algum texto */
+       height: 6em;
+       width: 30em;
+   
+       /* Para permitir aos usuários redimensionarem qualquer textarea verticalmente. Ele não funciona em todos os browsers */
+       resize: vertical;
+}
